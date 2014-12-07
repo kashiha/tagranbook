@@ -1,0 +1,43 @@
+﻿#container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+#header{
+  background: #9ACD32;
+  padding:10px;
+}
+
+#header:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+#logo_menu{
+  float: left;
+}
+
+#logo_menu{
+  content: "";
+  display: block;
+  clear: both;
+}
+
+#logo{
+  float: left;
+  font-size:25px;
+}
+
+#logo:after{
+  content: "";
+  display: block;
+  clear: both;
+}
+
+#header_menu{
+  float: right;
+  background: #FFFAFA;
+  padding: 10px;
+}
+
